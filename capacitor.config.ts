@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'apkUploader2',
+  appId: 'io.ionic.ionicuploaderapkstarter',
+  appName: 'APK APLOAD',
   webDir: 'www',
   server: {
     androidScheme: 'https'
