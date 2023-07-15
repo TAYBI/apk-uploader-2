@@ -19,7 +19,7 @@ export class HomePage {
 
   async download() {
     const loading = await this.loadingController.create({
-      message: 'Exporting...',
+      message: 'telechargement...',
       translucent: true
     });
     await loading.present();
